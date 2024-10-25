@@ -4,6 +4,18 @@
 # la suma, resta, multiplicació i divisió. Imprimeix els resultats de 
 # cadascuna d'aquestes operacions.
 
+# a = 17
+# b = 11
+
+# suma = a + b 
+# resta = a - b 
+# multi = a * b 
+# div = a / b 
+
+# print(f"la suma es {suma}")
+# print(f"la resta es {resta}")
+# print(f"la multi es {multi}")
+# print(f"la div es {div}")
 
 
 #Exercici 2: Declara una variable amb el valor de l'edat d'una persona. 

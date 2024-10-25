@@ -5,6 +5,9 @@
 #Exercici 1: Escriu un programa que demani un número i imprimeixi si 
 # és positiu, negatiu o zero.
 
+numero = int(input(Posa un numero: ))
+
+if 
 
 
 #Exercici 2: Escriu un programa que demani l'edat d'una persona i 
