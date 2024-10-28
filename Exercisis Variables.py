@@ -32,8 +32,22 @@
 # altra amb el preu per producte. Calcula el total a pagar multiplicant
 #  aquests dos valors i imprimeix el resultat.
 
+#quantitat = int(input("Posa un numero de productes: "))
 
+#preu_productes = int(input("intorudiex el preu del procu "))
+
+#resultat = quantitat * preu_productes 
+
+#print(f"El preu es: {resultat}")
 
 #Exercici 4: Declara una variable amb el preu d’un objecte i una altra
 #  amb el percentatge d’impost (per exemple, 21%). Calcula el preu 
 # final aplicant aquest impost i imprimeix el resultat.
+
+#Preu = int(input("introdueix el preu del objectre: "))
+
+#impost = 21 / 100
+
+#resultat = Preu + (Preu * impost)
+
+#print(f"el preu final seria el seguent: {resultat}")
