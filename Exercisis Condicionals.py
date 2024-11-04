@@ -52,3 +52,38 @@
 #    total = hores * 10
 
 #print(f"El cost total a pagar és: {total} euros")
+
+
+#Verificar Nombre Parell o Senar:
+
+ #   Demana a l'usuari que introdueixi un número.
+  #  Si el número és parell, mostra el missatge: "El número és parell".
+   # Si és senar, mostra el missatge: "El número és senar".
+
+#Determinar el Major de Tres Números:
+
+ #   Demana a l'usuari que introdueixi tres números.
+  #  Mostra quin és el major dels tres números.
+
+#Classificació d'Edat:
+
+ #   Demana a l'usuari que introdueixi la seva edat.
+  #  Si té menys de 12 anys, mostra el missatge "Ets un nen".
+   # Si té entre 12 i 17 anys, mostra "Ets un adolescent".
+    #Si té 18 anys o més, mostra "Ets un adult".
+
+#Assignació de Notes:
+
+ #   Demana a l'usuari que introdueixi la seva nota (0 a 100).
+  #  Mostra la qualificació segons el rang:
+   #     90-100: "Excel·lent"
+    #    70-89: "Notable"
+     #   50-69: "Aprovat"
+      #  Menys de 50: "Suspès"
+
+#Calculadora Senzilla:
+
+ #   Demana a l'usuari que introdueixi dos números i un operador (+, -, *, /).
+  #  Realitza l'operació indicada per l'usuari i mostra el resultat.
+   # Si l'usuari introdueix un operador no vàlid, mostra un missatge d'error.
+

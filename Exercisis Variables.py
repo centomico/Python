@@ -51,3 +51,35 @@
 #resultat = Preu + (Preu * impost)
 
 #print(f"el preu final seria el seguent: {resultat}")
+
+
+#Intercanvi de Valors:
+
+ #   Declara dues variables x i y amb els valors 10 i 20, respectivament.
+  #  Intercanvia els valors de x i y sense utilitzar una tercera variable.
+   # Mostra els nous valors de x i y.
+
+#Àrea d'un Rectangle:
+
+ #   Declara dues variables base i altura amb valors numèrics.
+  #  Calcula l'àrea del rectangle (base * altura) i emmagatzema el resultat en una variable area.
+   # Mostra el valor d'area.
+
+#Conversió de Temperatura:
+
+ #   Declara una variable celsius amb un valor que representi la temperatura en graus Celsius.
+  #  Converteix aquesta temperatura a graus Fahrenheit i guarda el resultat en una variable fahrenheit. La fórmula és: fahrenheit = celsius * 9/5 + 32.
+   # Mostra el valor de fahrenheit.
+
+#Calculadora de Preu Total amb IVA:
+
+ #   Declara una variable preu amb un valor numèric que representi el preu d'un producte.
+  #  Declara una altra variable iva amb un percentatge d'IVA (per exemple, 21).
+   # Calcula el preu total amb IVA i guarda'l en una variable preu_total.
+    #Mostra el valor de preu_total.
+
+#Suma i Promig de Tres Números:
+
+ #   Declara tres variables a, b, i c amb diferents valors numèrics.
+  #  Calcula la suma i el promig d'aquests tres números i guarda els resultats en variables suma i promig.
+   # Mostra els valors de suma i promig.
