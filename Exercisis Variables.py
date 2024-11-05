@@ -4,19 +4,20 @@
 # la suma, resta, multiplicació i divisió. Imprimeix els resultats de 
 # cadascuna d'aquestes operacions.
 
-# a = 17
-# b = 11
+#a = 17
+#b = 11
 
-# suma = a + b 
-# resta = a - b 
-# multi = a * b 
-# div = a / b 
+#suma = a + b 
+#resta = a - b 
+#multi = a * b 
+#div = a / b 
 
-# print(f"la suma es {suma}")
-# print(f"la resta es {resta}")
-# print(f"la multi es {multi}")
-# print(f"la div es {div}")
+#print(f"la suma es {suma}")
+#print(f"la resta es {resta}")
+#print(f"la multi es {multi}")
+#print(f"la div es {div}")
 
+#----------------------------------------------------
 
 #Exercici 2: Declara una variable amb el valor de l'edat d'una persona. 
 # Després, declara una segona variable amb el nombre d'anys fins a la 
@@ -27,6 +28,8 @@
 #edat_jub = 65 - edat
 
 #print(f"Queden {edat_jub} anys fins poder jubilarte.")
+
+#----------------------------------------------------
 
 #Exercici 3: Declara una variable amb la quantitat de productes i una 
 # altra amb el preu per producte. Calcula el total a pagar multiplicant
@@ -40,6 +43,8 @@
 
 #print(f"El preu es: {resultat}")
 
+#----------------------------------------------------
+
 #Exercici 4: Declara una variable amb el preu d’un objecte i una altra
 #  amb el percentatge d’impost (per exemple, 21%). Calcula el preu 
 # final aplicant aquest impost i imprimeix el resultat.
@@ -52,6 +57,7 @@
 
 #print(f"el preu final seria el seguent: {resultat}")
 
+#----------------------------------------------------
 
 #Intercanvi de Valors:
 
@@ -59,17 +65,31 @@
   #  Intercanvia els valors de x i y sense utilitzar una tercera variable.
    # Mostra els nous valors de x i y.
 
+x = 10
+y = 20
+
+x = y
+y = x
+
+print(f"el valor de x es {x}")
+print(f"el valor de y es {y}")
+#----------------------------------------------------
+
 #Àrea d'un Rectangle:
 
  #   Declara dues variables base i altura amb valors numèrics.
   #  Calcula l'àrea del rectangle (base * altura) i emmagatzema el resultat en una variable area.
    # Mostra el valor d'area.
 
+#----------------------------------------------------
+
 #Conversió de Temperatura:
 
  #   Declara una variable celsius amb un valor que representi la temperatura en graus Celsius.
   #  Converteix aquesta temperatura a graus Fahrenheit i guarda el resultat en una variable fahrenheit. La fórmula és: fahrenheit = celsius * 9/5 + 32.
    # Mostra el valor de fahrenheit.
+
+#----------------------------------------------------
 
 #Calculadora de Preu Total amb IVA:
 
@@ -78,8 +98,12 @@
    # Calcula el preu total amb IVA i guarda'l en una variable preu_total.
     #Mostra el valor de preu_total.
 
+#----------------------------------------------------
+
 #Suma i Promig de Tres Números:
 
  #   Declara tres variables a, b, i c amb diferents valors numèrics.
   #  Calcula la suma i el promig d'aquests tres números i guarda els resultats en variables suma i promig.
    # Mostra els valors de suma i promig.
+
+#----------------------------------------------------
