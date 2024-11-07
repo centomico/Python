@@ -14,6 +14,8 @@
 #else:
 #    print ("el nuemro es 0")
 
+#----------------------------------------------------
+
 #Exercici 2: Escriu un programa que demani l'edat d'una persona i 
 #imprimeixi si és menor d'edat (menor de 18) o major d'edat.
 
@@ -23,6 +25,8 @@
 #    print("Es major de edat")
 #else:
 #    print("es menor de edat")
+
+#----------------------------------------------------
 
 #Exercici 3: Escriu un programa que demani una temperatura i 
 # imprimeixi si és alta (per sobre de 30 graus), moderada 
@@ -39,6 +43,8 @@
 #else:
 #    print("La temperatura es baixa.")
 
+#----------------------------------------------------
+
 #Exercici 4: Escriu un programa que demani a l'usuari una quantitat 
 # d'hores i calculi el cost total a pagar si la tarifa és de 10 
 # euros per hora. Si la quantitat d'hores és superior a 40, aplica 
@@ -53,6 +59,7 @@
 
 #print(f"El cost total a pagar és: {total} euros")
 
+#----------------------------------------------------
 
 #Verificar Nombre Parell o Senar:
 
@@ -60,10 +67,14 @@
   #  Si el número és parell, mostra el missatge: "El número és parell".
    # Si és senar, mostra el missatge: "El número és senar".
 
+#----------------------------------------------------
+
 #Determinar el Major de Tres Números:
 
  #   Demana a l'usuari que introdueixi tres números.
   #  Mostra quin és el major dels tres números.
+
+#----------------------------------------------------
 
 #Classificació d'Edat:
 
@@ -71,6 +82,8 @@
   #  Si té menys de 12 anys, mostra el missatge "Ets un nen".
    # Si té entre 12 i 17 anys, mostra "Ets un adolescent".
     #Si té 18 anys o més, mostra "Ets un adult".
+
+#----------------------------------------------------
 
 #Assignació de Notes:
 
@@ -81,9 +94,12 @@
      #   50-69: "Aprovat"
       #  Menys de 50: "Suspès"
 
+#----------------------------------------------------
+
 #Calculadora Senzilla:
 
  #   Demana a l'usuari que introdueixi dos números i un operador (+, -, *, /).
   #  Realitza l'operació indicada per l'usuari i mostra el resultat.
    # Si l'usuari introdueix un operador no vàlid, mostra un missatge d'error.
 
+#----------------------------------------------------
